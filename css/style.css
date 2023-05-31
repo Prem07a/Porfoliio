@@ -109,7 +109,7 @@
   height: 120px;
 }
 
-@media (max-width:400px){
+@media (max-width:440px){
   .skill{
     display: flex;
     background-color: #228B22;
